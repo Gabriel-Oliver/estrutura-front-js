@@ -1,0 +1,10 @@
+UseEffects muito grandes;
+Requests sem try catch;
+Falta de componentização, criação de hooks;
+Nomenclatura de variaveis, funções, arquivos, etc;
+Má utilização de requests;
+
+
+----------------------------------------
+agrupar routers por tipos de ferramentas
+hook de permissoes

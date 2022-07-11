@@ -1,0 +1,16 @@
+.background-carregando{
+    background-color: gray;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+}
+[data-testid="tail-spin-loading"]{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+ 
+}
